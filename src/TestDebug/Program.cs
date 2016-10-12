@@ -9,6 +9,9 @@ namespace TestDebug
     {
         public static void Main(string[] args)
         {
+
+            Console.WriteLine("Testing CONSOLE APP");
+            Console.WriteLine("Scrubz");
         }
     }
 }
